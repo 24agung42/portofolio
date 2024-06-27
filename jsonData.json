@@ -1,0 +1,15 @@
+{
+	"title":"Agung M.Y, Fullstack Developer",
+	"head":"Fullstack Developer",
+	"img":"img profil.png",
+	"nama":"Agung Maulana Yusuf",
+	"hp":"087825043395",
+	"email":"agung150613006@gmail.com",
+	"github":"https://github.com/24agung42/portofolio",
+	"alamat":"Jl.Baru Raya Komp.Ciparay Hilir No.45 RT/RW. 004/011 Kec. Dayeuhkolot, Kab. Bandung",
+	"data":[
+		{"ttl":"Program Penjualan Baju","value":"Dalam project ini saya telah membuat program dekstop penjualan baju yang memudahkan penjual melakukan transaksi apabila ada customer yang akan melakukan pembelian produk seperti pakaian. saya membuatkan program dekstop menggunakan bahasa pemprogramman Java Netbeans danmedia penyimpanan menggunakan MySql, program tersebut terdiri dari :<br>- Data karyawan<br>- Master barang<br>- Transaksi diantaranya scan barcode dan penjumlahan barang<br>- Report keluar masuk barang"},
+		{"ttl":"Program Inventory","value":"Dalam project ini saya telah membuat program web yang memudahkan user atau pengguna untuk mendata barang yang tersedia pada gudang. Saya disini membuat program menggunakan framework YII2 dengan media penyimpanan menggunakan SQL Server, dengan fungsi master data untuk mengelola data barang."},
+		{"ttl":"Project Kinenta (Banshu)","value":"Selama saya bekerja sebagai seorang fullstack developer di PT. Banshu, saya telah mengerjakan project baru dan lama, untuk project baru yaitu :<br>- LTPP Notif pada setiap halaman website yang akan mendapatkan notif di halaman home screen.<br>- Replace Material pada halaman home screen plant export, yang berfungsi untuk mengubah data secara bersamaan untuk banyak tabel.<br><br>Lalu untuk project lama yaitu :<br>- Saya memperbaiki proses pada setiap modul yang mengalami ketidak sesuaian saat digunakan oleh user.<br>- Saya mengubah alur proses di setiap modul agar sesuai dengan kebutuhan user.<br><br>Semua pengerjaan project ini menggunakan bahasa pemprograman php dan javascript serta menggunakan plugin jquery EasyUI dengan media penyimpanan PostgreSQL."}
+	]
+}
